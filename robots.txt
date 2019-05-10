@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeefeeche.print4d.org/sitemap.xml
